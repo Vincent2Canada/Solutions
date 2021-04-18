@@ -1,2 +1,2 @@
 # Solutions
-Android移动开发解决方案集合 by Vincent
+Android移动开发解决方案集合 by Vincent v2
